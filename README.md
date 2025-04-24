@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wafaa-qurashi
+- 👋 Hi, I’m wafa`a Al-qurashi
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning Data science
 - 📫 How to reach me https://www.linkedin.com/in/wafa-a-alqurashi-7043162bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6hOGoHdkSzGMY1KlEgYEiw%3D
